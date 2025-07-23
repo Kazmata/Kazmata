@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kazmata
+- 👋 Hi, I’m @Kazmataaz
 - 👀 I’m interested in Arts, Music,and Peace
 - 🌱 I’m currently learning to relax, Openframeworks, Finance, Blender & Python 
 - 💞️ I’m looking to collaborate on Art 
